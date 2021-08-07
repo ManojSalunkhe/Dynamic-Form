@@ -44,6 +44,7 @@ function App() {
     });
     setData(newData);
   }
+  console.log(data)
 
   return (
     <div>
